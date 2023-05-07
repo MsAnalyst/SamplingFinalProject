@@ -1,42 +1,64 @@
 # SamplingFinalProject
 Final Project for Pacmann Sampling Class 
 
-##1. PENDAHULUAN
+## 1. PENDAHULUAN
 1.1. Definisi Masalah
+
 Federasi Serikat Guru Indonesia (FSGI) mencatat bahwa Sekolah Menengah Kejuruan (SMK) merupakan pemasok angka pengangguran tertinggi di Indonesia yakni 14,63 persen dengan korelasi data dari Badan Pusat Statistik (BPS) tentang jumlah pengangguran paling tinggi di Indonesia per Agustus 2022. Hasilnya, Jawa Barat (Jabar) menduduki peringkat pertama tertinggi di Indonesia dengan pengangguran mencapai 8,31 persen atau 2,13 juta orang. 
 
 Secara khusus ditemukan bahwa SMK di Jabar jadi penyumbang penganggur terbanyak karena mayoritas diproyeksikan langsung bekerja setelah lulus. Berbeda dengan lulusan SMA yang kebanyakan melanjutkan pendidikan ke jenjang lebih tinggi. Selain itu, salah satu faktor krusial para lulusan SMK di Jabar sulit mendapat pekerjaan adalah adanya persaingan ketat dalam dunia kerja. Hal ini dikarenakan Jabar dengan tingginya upah dan fasilitas kerja menarik para pendatang dari provinsi-provinsi lain di Indonesia untuk ikut mencari kerja bersama dengan penduduk setempat
+
 1.2. Objektif
+
 Kita ingin mengetahui berapa banyak rata-rata siswa yang mengalami peningkatan keterampilan berbahasa Inggris dan juga estimasi total jumlah calon lulusan SMK yang akan diserap oleh industri kerja berdasarkan kemampuan berbahasa Inggris mereka. Manfaatnya adalah kita bisa mengetahui apakah metode pembelajaran bahasa Inggris dalam program Sekolah Menengah Kejuruan Pusat Keunggulan Skema Pemadanan Dukungan (SMK PK SPD) sudah sesuai meningkatkan keterampilan tersebut. 
+
 1.3. Alur Pembahasan
+
 Benarkah program Sekolah Menengah Kejuruan Pusat Keunggulan Skema Pemadanan Dukungan (SMK PK SPD) meningkatkan kecakapan berbahasa Inggris sesuai dengan kebutuhan industri bidang teknologi?
 
 ## 2. RANCANGAN SAMPLING
 2.1. Populasi
+
 Populasi tahap 1: seluruh SMK di Jawa Barat berjumlah 11 SMK 
 Populasi tahap 2: seluruh SMK jurusan Teknologi Manufaktur dan Rekayasa di Jawa Barat
 Populasi tahap 3: seluruh siswa  di 3 SMK di Jawa Barat 
 
 Penelitian dilakukan di 3 SMK dari total 107 SMK yang terdaftar dalam program SMK PK SPD. Daftar SMK yang terdaftar ada dalam dokumen SK Direktorat Jenderal Pendidikan Vokasi mengenai Penetapan Sekolah Menengah Kejuruan Pelaksana Program Sekolah Menengah Kejuruan Pusat Keunggulan Skema Pemadanan Dukungan Baru Tahap 1 Tahun 2023. Alasan menjadikan 3 SMK ini sebagai populasi adalah karena dianggap bisa mewakili jurusan  yang akan diteliti. 3 SMK yang dipilih adalah SMK yang memiliki jurusan berbasis teknik (engineering) Teknologi Manufaktur dan Rekayasa dikarenakan jurusan ini memiliki prospek karir besar dan banyak dicari perusahaan.  
+
 2.2 Target Populasi
+
 Populasi target adalah seluruh populasi yang menerapkan program SMK PK SPD dengan penekanan pada ESP. 
+
 2.3 Kerangka Sampling
+
 Jumlah siswa dari SMK didapatkan dari direktori online Sekolah Kita dengan memasukkan nama sekolah yang dicari. 
+
 2.4 Unit Sampling    
+
 Untuk penelitian keefektifan program SMK PK SPD, diambil sampel berdasarkan unit berikut:
 Unit pertama: SMK di Jawa Barat 
 Unit kedua: SMK jurusan Teknologi Manufaktur dan Rekayasa
 Unit ketiga: siswa di masing-masing SMK
+
 2.5 Unit Observasi
+
 Pada kasus yang sama, unit observasinya adalah siswa karena siswa yang dapat ditanya dan menjawab pandangan tentang keefektifan belajar program SMK PK SPD. 
+
 2.6 Unit Analisis
-Karena kita ingin melihat keefektifan belajar program SMK PK SPD, bisa saja pengambilan kesimpulan diambil di unit SMK di Jawa Barat. Namun mengingat kegiatan belajar jurusan yang ingin diteliti cukup spesifik, maka unit analisis ditentukan pada unit siswa di SMK Jurusan Teknologi Manufaktur dan Rekayasa. 
+
+Karena kita ingin melihat keefektifan belajar program SMK PK SPD, bisa saja pengambilan kesimpulan diambil di unit SMK di Jawa Barat. Namun mengingat kegiatan belajar jurusan yang ingin diteliti cukup spesifik, maka unit analisis ditentukan pada unit siswa di SMK Jurusan Teknologi Manufaktur dan Rekayasa.
+
 2.7 Karakteristik yang Diteliti
+
 Meneliti rata-rata peningkatan kemampuan siswa SMK dalam penilaian nilai ESP.  
+
 2.8 Nilai Karakteristik yang Diestimasi
+
 Tingkat persentase calon siswa dengan keterampilan berbahasa Inggris
 Estimasi level keterampilan berbahasa Inggris
+
 2.9 Langkah Pengambilan Sampel 
+
 Penelitian ini menggunakan rumus Slovin karena dalam penarikan sampel, jumlahnya harus representative agar hasil penelitian dapat digeneralisasikan dan perhitungannya dapat dilakukan dengan rumus dan perhitungan sederhana. Dari populasi 3 SMK yang berjumlah 2,691 orang siswa, akan diambil beberapa sampel dengan taraf error margin 5% sebagai berikut:
 n = N1 + N.e2
 Keterangan:
@@ -62,12 +84,16 @@ SMKN 1 Gunungguruh 	14952691x 348= 193
 
 3 SMK jurusan Teknologi Manufaktur dan Rekayasa di Jawa Barat dapat dilihat pada tabel. 
 
-Langkah yang dilakukan dalam cluster random sampling untuk menentukan sampel yaitu dengan menyeleksi dari siswa di 3 SMK terpilih dengan menggunakan random selection dan random assignment. Random selection menurut Fraenkel dkk. (2012, hlm. 267) yaitu “... means that every member of the population has an equal chance of being selected to be a member of the sample”. Maksud pernyataan tersebut adalah setiap anggota populasi memiliki kesempatan yang sama untuk terpilih menjadi anggota sampel penelitian. Sedangkan random assignment menurut Fraenkel dkk. (2012, hlm. 267) yaitu “means that every individual who is participating in an experiment has an equal chance of being assigned to any of the experimental or control conditions being compared”. [8]
+Langkah yang dilakukan dalam cluster random sampling untuk menentukan sampel yaitu dengan menyeleksi dari siswa di 3 SMK terpilih dengan menggunakan random selection dan random assignment. Random selection menurut Fraenkel dkk. (2012, hlm. 267) yaitu “... means that every member of the population has an equal chance of being selected to be a member of the sample”. Maksud pernyataan tersebut adalah setiap anggota populasi memiliki kesempatan yang sama untuk terpilih menjadi anggota sampel penelitian. Sedangkan random assignment menurut Fraenkel dkk. (2012, hlm. 267) yaitu “means that every individual who is participating in an experiment has an equal chance of being assigned to any of the experimental or control conditions being compared”.
+
 2.10 Metode Pengumpulan Data
+
 Survei untuk siswa dibuat untuk mengumpulkan data terkait perspektif mereka terhadap pembelajaran bahasa Inggris dan melakukan pengujian dalam bentuk tes bahasa Inggris. Selain menyebarkan survei melalui berbagai saluran jejaring, para guru terkait juga diminta untuk memberikan survei ini kepada murid-muridnya. Karena penelitian ini bertujuan untuk menggali wawasan dari anak remaja, survei diisi secara anonim. Tidak ada data pribadi atau informasi kontak yang dikumpulkan dari survei siswa. 
 
-Selain memberikan survei lewat online, tim peneliti akan mengunjungi ke-3 SMK tersebut untuk memberikan penjelasan lewat online mengenai survei sampling yang akan dilakukan. Secara biaya, pengeluaran untuk melakukan hal ini tidak terlalu besar karena hanya melibatkan 3 sekolah.   
+Selain memberikan survei lewat online, tim peneliti akan mengunjungi ke-3 SMK tersebut untuk memberikan penjelasan lewat online mengenai survei sampling yang akan dilakukan. Secara biaya, pengeluaran untuk melakukan hal ini tidak terlalu besar karena hanya melibatkan 3 sekolah. 
+
 2.11 Metode Estimasi Parameter 
+
 Estimasi parameter populasi berdasarkan statistik sampel akan dilakukan dengan interval estimate atau estimasi interval. Penggunaan estimasi interval akan menghasilkan kemungkinan bias lebih kecil dibandingkan jika menggunakan rerata sampel atau point estimate. 
 Perhitungan rerata populasi dihasilkan dari:
 Misalnya untuk mengestimasi  digunakan interval estimasi : x - d < < x + d atau  = x  d di mana d adalah perbedaan true value dan estimate value (difference) yang dikehendaki. Selanjutnya d ini disebut juga sebagai estimation error atau kekeliruan estimasi. 
