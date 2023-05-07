@@ -1,7 +1,7 @@
 # SamplingFinalProject
 Final Project for Pacmann Sampling Class 
 
-1. PENDAHULUAN
+##1. PENDAHULUAN
 1.1. Definisi Masalah
 Federasi Serikat Guru Indonesia (FSGI) mencatat bahwa Sekolah Menengah Kejuruan (SMK) merupakan pemasok angka pengangguran tertinggi di Indonesia yakni 14,63 persen dengan korelasi data dari Badan Pusat Statistik (BPS) tentang jumlah pengangguran paling tinggi di Indonesia per Agustus 2022. Hasilnya, Jawa Barat (Jabar) menduduki peringkat pertama tertinggi di Indonesia dengan pengangguran mencapai 8,31 persen atau 2,13 juta orang. 
 
@@ -11,7 +11,7 @@ Kita ingin mengetahui berapa banyak rata-rata siswa yang mengalami peningkatan k
 1.3. Alur Pembahasan
 Benarkah program Sekolah Menengah Kejuruan Pusat Keunggulan Skema Pemadanan Dukungan (SMK PK SPD) meningkatkan kecakapan berbahasa Inggris sesuai dengan kebutuhan industri bidang teknologi?
 
-2. RANCANGAN SAMPLING
+## 2. RANCANGAN SAMPLING
 2.1. Populasi
 Populasi tahap 1: seluruh SMK di Jawa Barat berjumlah 11 SMK 
 Populasi tahap 2: seluruh SMK jurusan Teknologi Manufaktur dan Rekayasa di Jawa Barat
@@ -106,14 +106,15 @@ Batas atas 	CI1-= x- Zsd/n
 Maka akan mendapatkan estimasi nilai Bahasa Inggris populasi berdasarkan rerata sampel berada di dalam CI 95%, yang membuktikan bahwa rerata sampel yang dipilih dengan metode cluster random sampling ini tidak bias.  
 
 Sedangkan untuk pengambilan sampel klaster (cluster random sampling) dan stratifikasi klaster, ukuran sampel umumnya besar. Jadi proporsi sampel dan rata-rata sampel biasanya mengikuti distribusi normal. Dengan rumus deduksi, kita bisa mendapatkan estimator dari semua jenis proporsi populasi, rata-rata, dan variansnya; kita dapat memperkirakan interval proporsi dan rata-rata populasi tersebut; dan kita selanjutnya dapat membandingkan proporsi dan rata-rata setiap strata dengan uji-t, uji Z, analisis varians atau uji peringkat. 
-3. ANALISA
+
+## 3. ANALISA
 Metode pengambilan sampel adalah dengan metode Cluster random sampling. Alasan menggunakan teknik Cluster random sampling karena penelitian dibuat random dari jumlah populasi yang besar, dari kelompok atau cluster yang tersebar secara geografis, dalam hal ini adalah sekolah.
 
 Dari rancangan sampling di atas didapatkan hasil bahwa  metode cluster random sampling mencakup semua manfaat pengambilan sampel acak dan pengambilan sampel bertingkat dalam prosesnya. Ini membantu mengurangi potensi bias manusia dalam informasi yang dikumpulkan. Ini juga menyederhanakan proses pengumpulan informasi, mengurangi risiko pengaruh negatif yang disebabkan oleh variasi acak. Ketika digabungkan, hasil yang diperoleh dari sampel dapat menghasilkan kesimpulan yang kemudian dapat diterapkan pada populasi umum.
 
 Metode pengambilannya menggunakan survei online, sehingga sangat mudah untuk menjangkau responden. Selain itu biayanya juga murah karena hanya diperlukan survey online, tidak perlu turun ke lapangan untuk mencari. Keterbatasan dalam melakukan pengambilan sampling sesuai metode di atas adalah dikarenakan menggunakan survey online, sangat mudah untuk mendapatkan sampling bias seperti non-response bias, tapi kita harus melakukan follow up terus menerus agar bisa mendapatkan proper response dari responden. 
 
-4. KESIMPULAN
+## 4. KESIMPULAN
 Berdasarkan hasil dari rancang sampling diatas, dapat disimpulkan bahwa:
 1. Prior knowledge sangat dibutuhkan dalam proses perancangan sampling untuk mempermudah dalam memberikan asumsi nilai terhadap parameter dalam sampling
 2. Berdasarkan hasil dari rancang sampling, digunakan cluster random sampling pada siswa di SMK terpilih. Kelebihan dari metode ini adalah setiap individu yang berpartisipasi dalam penelitian memiliki peluang yang sama untuk menjadi sampel.
